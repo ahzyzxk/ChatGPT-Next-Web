@@ -1,0 +1,8 @@
+使用打包二开镜像
+docker build -t ds-gpt .
+
+启动镜像
+docker run -d -p 10001:3000 \
+   -e OPENAI_API_KEY="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" \
+   -e DISABLE_GPT4=1 \
+   ds-gpt
