@@ -124,6 +124,7 @@ export function SideBar(props: { className?: string }) {
         </div>
         <div className={styles["sidebar-sub-title"]}>
           当前模型gpt-3.5-turbo，基于OpenAI API接入
+          <br />
           最新模型gpt-4开放体验，窗口设置模型gpt4开启
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
