@@ -1,4 +1,4 @@
-使用打包二开镜像
+先打包二开镜像
 docker build -t ds-gpt .
 
 启动镜像
