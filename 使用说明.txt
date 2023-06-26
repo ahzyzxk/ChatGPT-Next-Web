@@ -22,4 +22,4 @@ docker run -d -p 10001:3000 \
 
 # 其他
 master分支同步原项目master分支
-dashu分支二开分支
+dashu分支为二开分支
