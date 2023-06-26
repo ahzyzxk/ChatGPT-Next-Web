@@ -18,3 +18,8 @@ docker run -d -p 10001:3000 \
    -e HIDE_USER_API_KEY=1 \
    -e DISABLE_GPT4=1 \
    ds-gpt
+
+
+# 其他
+master分支同步原项目master分支
+dashu分支二开分支
